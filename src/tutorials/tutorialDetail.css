@@ -1,0 +1,41 @@
+.tutorialDetail {
+  font-family: Arial, sans-serif;
+}
+
+.tutorialDetailTitle {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 28px;
+}
+
+.tutorialDetailStep {
+  margin-bottom: 16px;
+}
+
+.tutorialDetailStep h2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000;
+}
+
+.tutorialDetailStep p {
+  font-size: 16px;
+  color: rgba(28, 28, 28, 0.8);
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.tutorialDetailStep .img1 {
+  width: 327px;
+  height: 62px;
+}
+
+.tutorialDetailStep .img2 {
+  width: 327px;
+  height: 141px;
+}
+
+.tutorialDetailStep .img3 {
+  width: 327px;
+  height: 269px;
+}

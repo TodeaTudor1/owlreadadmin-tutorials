@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import React from "react";
+import { BrowserRouter, Routes, Route, useNavigate } from "react-router-dom";
+import Tutorials from "./tutorials/tutorials";
+import VRTutorial from "./tutorials/vrTutorial";
+import GettingStarted from "./tutorials/gettingStarted";
+import MonitorUsers from "./tutorials/monitorUsers";
+import Calibration from "./tutorials/Calibration";
+import { VideoUrlProvider } from "./tutorials/tutorialsContext";
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <VideoUrlProvider>
+      <BrowserRouter>
+        <div className="appStyle">
+          <Routes>
+            <Route path="/" element={<Tutorials />} />
+            <Route path="/VRTutorial" element={<VRTutorial />} />
+            <Route path="/gettingStarted" element={<GettingStarted />} />
+            <Route path="/monitorUsers" element={<MonitorUsers />} />
+            <Route path="/calibration" element={<Calibration />} />
+          </Routes>
+        </div>
+      </BrowserRouter>
+    </VideoUrlProvider>
   );
-}
+};
 
 export default App;

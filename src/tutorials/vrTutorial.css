@@ -1,0 +1,70 @@
+.pd-value-screen {
+  max-width: 375px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.pd-value-screen h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.step h2 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.step p {
+  font-size: 16px;
+  color: rgba(28, 28, 28, 0.8);
+  line-height: 28px;
+  margin: 10px 0;
+}
+
+.img1 {
+  width: 223px;
+  height: 100px;
+  margin-top: 10px;
+}
+.img2 {
+  width: 240px;
+  height: 214px;
+  margin-top: 10px;
+}
+.step img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center; /* This ensures vertical alignment */
+  justify-content: flex-start; /* Aligns items to the start of the container */
+  padding: 0 10px 40px 10px; /* Add padding as per your design */
+}
+
+.backButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center; /* Align the icon vertically */
+  justify-content: center; /* Center the icon horizontally */
+  padding: 0 15px 0 0; /* Adjust padding to align the icon */
+  font-size: 20px; /* Adjust the size of the icon */
+  margin-right: 10px; /* Adjust space between the button and the title */
+}
+
+.backButton .fas {
+  display: inline-block;
+}
+
+.pd-value-screen h1 {
+  margin: 0; /* Adjust or remove margin if necessary */
+  /* Additional styling */
+}

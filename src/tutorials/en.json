@@ -1,0 +1,58 @@
+{
+  "backButton": "Back",
+  "headerTitle": "Set PD value to VR",
+  "step1": "Step 1",
+  "step1Description": "Using a tape measurement as a guide, place one end on the outer edge of the left lens.",
+  "step2": "Step 2",
+  "step3": "Step 3",
+  "step4": "Step 4",
+  "watchVideo": "Watch video",
+  "step2Description": "To increase or decrease the distance between the lenses: rotate the knob on the top center of your VR until the left outer edge of the right lens matches your PD.",
+  "tutorialsHeader": "Tutorials",
+  "tutorials": {
+    "pupillaryDistance": {
+      "title": "Pupillary Distance",
+      "description": "Insert 2-3 lines text about PD measurement & re-taking test."
+    },
+    "setPDValueToVR": {
+      "title": "Set PD value to VR",
+      "description": "How to set your Pupil Distance measurement on your VR."
+    },
+    "howToCalibrate": {
+      "title": "How to Calibrate",
+      "description": "Learn how to calibrate your training sessions."
+    },
+    "gettingStarted": {
+      "title": "Getting Started",
+      "description": "Learn how to get started before your first training."
+    },
+    "monitorUsers": {
+      "title": "Monitor Users",
+      "description": "How to add users to monitor their training."
+    }
+  },
+  "gettingStartedStep1Title": "Step 1: Complete tests in the app",
+  "gettingStartedStep1Description": "Complete the vergence test and reading tests provided in the app",
+  "gettingStartedStep2Title": "Step 2: Add Pupillary distance ",
+  "gettingStartedStep2Description": "Provide your pupillary distance in the app.",
+  "gettingStartedStep3Title": "Step 3: Set up VR glasses",
+  "gettingStartedStep3Description": "Set up your VR glasses by adjusting the straps, and setting your PD value to the VR.",
+  "gettingStartedStep4Title": "Step 4: Select training content",
+  "gettingStartedStep4Description": "Start training by selecting your content (start with images the first week).",
+  "gettingStartedStep5Title": "Step 5: Adjust sharpness",
+  "gettingStartedStep5Description": "When the countdown begins, center your phone to the VR and adjust image sharpness by rotating the left and right dials on the VR.",
+  "gettingStartedStep6Title": "Step 6: Calibrate",
+  "gettingStartedStep6Description": "Focus on the center of the image and calibrate when you see a double image. Repeat calibration 5x.",
+  "gettingStartedStep7Title": "Step 7: Start training",
+  "gettingStartedStep7Description": "Watch 15 min of content to complete your  training session.",
+
+  "howToCalibrateStep1": "Focus on the mark at the center of the line.",
+  "howToCalibrateStep2": "When you see a double image, or you can no longer keep the line in clear focus...",
+  "howToCalibrateStep3": "Press the volume button to calibrate.",
+  "howToCalibrateStep4": "When the image is still and in focus again, repeat steps 1-3.",
+
+  "monitorUsersStep1": "To add users you want to monitor, log in or create an imvi account.",
+  "monitorUsersStep2": "Select the ‘Monitor users’ icon at the bottom navigation bar.",
+  "monitorUsersStep3": "Enter the ID or email used for your child/student’s imvi account.",
+  "monitorUsersStep4": "The app will send the user an email requesting permission to monitor their account. They must approve the request in order to continue."
+}

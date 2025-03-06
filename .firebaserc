@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "app-owlreading"
+  },
+  "targets": {
+    "app-owlreading": {
+      "hosting": {
+        "tutorials-imvi": [
+          "tutorials-imvi"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "backButton": "Back",
+  "headerTitle": "Ställ in PD på VR",
+  "step1": "Steg 1",
+  "step1Description": "Använd ett måttband och placera ena änden på den vänstra linsens ytterkant.",
+  "step2": "Steg 2",
+  "step3": "Steg 3",
+  "step4": "Steg 4",
+  "watchVideo": "Kolla på video",
+  "step2Description": "Vrid ratten för pupillavstånd (mitten av VR ovansida) tills vänster ytterkant på höger lins matchar värdet för ditt pupillavstånd.",
+  "tutorialsHeader": "Tutorials",
+  "tutorials": {
+    "pupillaryDistance": {
+      "title": "Pupillary Distance",
+      "description": "Swedish text."
+    },
+    "setPDValueToVR": {
+      "title": "Ställ in PD-värdet på VR-glasögonen",
+      "description": "Hur man mäter pupillavstånd på dina VR-glasögon."
+    },
+    "howToCalibrate": {
+      "title": "Hur man kalibrerar",
+      "description": "Lär dig hur du kalibrerar före din träning."
+    },
+    "gettingStarted": {
+      "title": "Komma igång",
+      "description": "Lär dig hur du kommer igång före din första träning."
+    },
+    "monitorUsers": {
+      "title": "Övervaka användare",
+      "description": "Hur man lägger till användare för att övervaka deras träning."
+    }
+  },
+  "gettingStartedStep1Title": "Steg 1: Tester i appen",
+  "gettingStartedStep1Description": "Slutför samsynstestet och lästestet som finns i appen.",
+  "gettingStartedStep2Title": "Steg 2: Ange pupillavstånd",
+  "gettingStartedStep2Description": "Mata in ditt ögonavstånd i appen",
+  "gettingStartedStep3Title": "Steg 3: Ställ in VR-glasögonen",
+  "gettingStartedStep3Description": "Ställ in dina VR-glasögon genom att justera remmarna och ställa in ditt PD-avstånd på VRglasögonen.",
+  "gettingStartedStep4Title": "Steg 4: Välj träningsinnehåll",
+  "gettingStartedStep4Description": "Börja träna genom att välja ditt innehåll (börja med bilder första veckan).",
+  "gettingStartedStep5Title": "Steg 5: Justera skärpan",
+  "gettingStartedStep5Description": "När nedräkningen börjar, centrera din telefon i VRglasögonen och justera bildens skärpa genom att vrida på vänster eller höger ratt på VRglasögonen.",
+  "gettingStartedStep6Title": "Steg 6: Kalibrera",
+  "gettingStartedStep6Description": "Fokusera på linjen och kalibrera med volymknappen när du ser en dubbelbild. Upprepa kalibreringen 5 gånger.",
+  "gettingStartedStep7Title": "Steg 7: Börja träna",
+  "gettingStartedStep7Description": "Titta på 15 min innehåll för att slutföra ditt träningspass.",
+
+  "howToCalibrateStep1": "Fokusera på mitten av linjen.",
+  "howToCalibrateStep2": "När du ser en dubbel bild, eller om du inte längre kan hålla linjen i tydligt fokus.",
+  "howToCalibrateStep3": "Tryck på volymknappen för att kalibrera.",
+  "howToCalibrateStep4": "När bilden är stilla och i fokus igen, upprepa steg 1-3.",
+
+  "monitorUsersStep1": "För att lägga till användare du vill övervaka, logga in eller skapa ett imvi-konto.",
+  "monitorUsersStep2": "Välj ikonen 'Övervaka användare' i det nedre navigeringsfältet.",
+  "monitorUsersStep3": "Ange ID eller e-postadress som används för ditt barns/elevens imvi-konto.",
+  "monitorUsersStep4": "Appen skickar ett e-postmeddelande till användaren och begär tillstånd att övervaka sitt konto. De måste godkänna begäran för att fortsätta."
+}
